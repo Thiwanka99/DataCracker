@@ -1,0 +1,12 @@
+{
+  "version":{
+    "name":"1.2.12_07.07",
+    "link":"https://github.com/thiwaK/DataCracker/releases/"
+  },
+  "message":{
+    "show":false,
+    "type":"I",
+    "content":"Welcome!",
+    "actionBtn":"OK"
+  }
+}
