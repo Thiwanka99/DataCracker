@@ -1,6 +1,6 @@
 
 
-# Data Cracker
+# Data Cracker (Discontinued)
 
 ![](https://img.shields.io/badge/Platform-Android-bblue?style=flat-square) ![](https://img.shields.io/badge/Version-1.2.12-blue?style=flat-square)
 ![](https://img.shields.io/badge/Build-Stable-red?style=flat-square)
